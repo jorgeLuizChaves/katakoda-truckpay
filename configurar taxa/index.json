@@ -1,6 +1,6 @@
 {
-  "title": "teste1",
-  "description": "teste1",
+  "title": "configurar taxa",
+  "description": "Configurar Taxa Pré/Pos em um transportadora",
   "difficulty": "Beginner",
   "time": "2 minutes",
   "details": {
@@ -25,9 +25,13 @@
     "showdashboard": true,
     "dashboards": [
       {
-        "name": "Placeholder", 
+        "name": "truckpay", 
         "href": "https://ciot.homolog.truckpay.com.br/#/"
-      }
+      },
+      {"name": "URL", "href": "https://www.katacoda.com"},
+      {"name": "Port 80", "port": 80},
+      {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/somepage", "port": 8080}
+
     ],
     "uilayout": "terminal-iframe"
 
