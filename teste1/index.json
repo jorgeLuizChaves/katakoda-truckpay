@@ -1,8 +1,8 @@
 {
-  "title": "create-ciot",
-  "description": "create a ciot",
+  "title": "teste1",
+  "description": "teste1",
   "difficulty": "Beginner",
-  "time": "15 min",
+  "time": "2 minutes",
   "details": {
     "steps": [
       {
@@ -12,22 +12,6 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
-      },
-      {
-        "title": "Step 6",
-        "text": "step6.md"
       }
     ],
     "intro": {
@@ -41,7 +25,7 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "ubuntu:2004",
+    "imageid": "ubuntu",
     "port": "8000"
   }
 }
