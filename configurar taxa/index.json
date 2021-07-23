@@ -22,18 +22,9 @@
     }
   },
   "environment": {
-    "showdashboard": true,
-    "dashboards": [
-      {
-        "name": "truckpay", 
-        "href": "https://ciot.homolog.truckpay.com.br/#/"
-      }
-    ],
     "uilayout": "iframe"
-
   },
   "backend": {
-    "imageid": "ubuntu",
-    "port": "8000"
+    "url": "https://ciot.homolog.truckpay.com.br/#/"
   }
 }
