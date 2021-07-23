@@ -28,8 +28,9 @@
         "name": "Placeholder", 
         "href": "https://ciot.homolog.truckpay.com.br/#/"
       }
+    ],
+    "uilayout": "terminal-iframe"
 
-    ]
   },
   "backend": {
     "imageid": "ubuntu",
