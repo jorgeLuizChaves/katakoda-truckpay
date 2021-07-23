@@ -25,6 +25,7 @@
     "uilayout": "iframe"
   },
   "backend": {
+    "imageid": "bash",
     "url": "https://ciot.homolog.truckpay.com.br/#/"
   }
 }
